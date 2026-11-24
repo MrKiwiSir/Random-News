@@ -40,8 +40,6 @@ Ways to use it:
 | [USA Today](https://www.usatoday.com/news/) | United States |
 | [Vox](https://www.vox.com/) | United States |
 
-Al Jazeera, NPR, and Reuters are each listed twice on purpose, so they come up about twice as often as the others.
-
 Inclusion in the list is not an endorsement of any outlet. The point is variety: you decide what to make of what you read.
 
 ## How it works
